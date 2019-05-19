@@ -1,0 +1,28 @@
+{
+  "name": "epic-screenshot",
+  "version": "1.0.0",
+  "description": "Epic screenshot bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pr0ph0z/epic-screenshot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "image"
+  ],
+  "author": "Mohamad Radisha <pr0ph0z23@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pr0ph0z/epic-screenshot/issues"
+  },
+  "homepage": "https://github.com/pr0ph0z/epic-screenshot#readme",
+  "dependencies": {
+    "jimp": "^0.6.4",
+    "jimpfont": "0.0.6"
+  }
+}
